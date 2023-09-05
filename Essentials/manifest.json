@@ -1,33 +1,35 @@
 {
-    "spec": "1.0",
-    "name": "The Poopy Repo",
-    "description": "fonts i guess",
-    "icon": "RepoIcon.png",
-    "packages": [
-        {
-            "name": "Comic sans",
-            "bundleid": "org.thepoopyguy.comicsand",
-            "author": "PoopER",
-            "description": "kys dude",
-            "version": "1.0",
-            "icon": "Icons/comicsans.png",
-            "path": "Tweaks/org.thepoopyguy.comicsand.picasso"
-        },
-        {
-            "name": "Compile Clock Font (iOS 16)",
-            "bundleid": "org.thepoopyguy.compileclock16",
-            "author": "PoopER",
-            "description": "some random clock fonts (iOS 16 only)",
-            "version": "1.0",
-            "icon": "Icons/compileclock16.png",
-            "path": "Tweaks/org.thepoopyguy.compileclock16.picasso"
-        },
-        {
-            "name": "Fluent UI (flat)",
-            "bundleid": "org.thepoopyguy.fluentflat",
-            "author": "PoopER",
-            "description": "fluent ui emoji flat from macrohard",
-            "version": "1.0",
-            "icon": "Icons/fluentflat.png"
-            
-        }]}
+  "spec": "1.0",
+  "name": "Poop repo",
+  "description": "Basic fonts",
+  "icon": "RepoIcon.png", 
+  "packages": [
+    {
+      "name": "comic sans",
+      "bundleid": "org.thepoopyguy.comicsans",
+      "author": "PoopER",
+      "description": "kys.",
+      "version": "1.1",
+      "icon": "Icons/comicsans.png",
+      "path": "Tweaks/org.thepoopyguy.comicsans.picasso"
+    },
+    {
+      "name": "compile clock 16",
+      "bundleid": "org.thepoopyguy.compileclock16",
+      "author": "PoopER",
+      "description": "cool clock font i found (ios 16 only).",
+      "version": "1.1",
+      "icon": "Icons/compileclock16.png",
+      "path": "Tweaks/org.thepoopyguy.compileclock16.picasso"
+    },
+    {
+      "name": "Fluent UI Emoji Flat",
+      "bundleid": "org.thepoopyguy.fluentflat",
+      "author": "PoopER",
+      "description": "name",
+      "version": "1.1",
+      "icon": "Icons/fluentflat.png",
+      "path": "Tweaks/org.thepoopyguy.fluentflat.picasso"
+    }
+  ]
+}

@@ -1,16 +1,15 @@
-"featured": [
-        {
-            "name": "Comic Sans",
-            "bundleid": "org.thepoopyguy.commerce",
-            "banner": "icons/comicbanner.png"
-        }
-    ],
-
 {
   "spec": "1.0",
   "name": "Poop repo",
   "description": "Basic fonts",
-  "icon": "RepoIcon.png", 
+  "icon": "RepoIcon.png",
+"featured": [
+        {
+            "name": "Comic Sans W",
+            "bundleid": "org.thepoopyguy.commerce",
+            "banner": "icons/comicbanner.png"
+        }
+    ],
   "packages": [
     {
       "name": "comic sans",

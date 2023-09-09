@@ -9,6 +9,10 @@
             "bundleid": "org.thepoopyguy.commerce",
             "banner": "icons/comicbanner.png"
         }
+        {
+            "name": "Thrivingly Fluent",
+            "bundleid": "org.thepoopyguy.flatandfluent",
+            "banner": "icons/simpsus.png"
     ],
   "packages": [
     {

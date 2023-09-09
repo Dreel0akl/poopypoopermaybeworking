@@ -6,12 +6,12 @@
   "packages": [
     {
       "name": "comic sans",
-      "bundleid": "org.thepoopyguy.comicsand",
+      "bundleid": "org.thepoopyguy.commerce",
       "author": "PoopER",
       "description": "kys.",
       "version": "1.1",
       "icon": "Icons/comicsans.png",
-      "path": "Tweaks/org.thepoopyguy.comicsand.picasso"
+      "path": "Tweaks/org.thepoopyguy.commerce.picasso"
     },
     {
       "name": "compile clock 16",

@@ -24,12 +24,12 @@
     },
     {
       "name": "Fluent UI Emoji Flat",
-      "bundleid": "org.thepoopyguy.fluentflat",
+      "bundleid": "org.thepoopyguy.flatandfluent",
       "author": "PoopER",
       "description": "name",
       "version": "1.1",
       "icon": "Icons/fluentflat.png",
-      "path": "Tweaks/org.thepoopyguy.fluentflat.picasso"
+      "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso"
     }
   ]
 }

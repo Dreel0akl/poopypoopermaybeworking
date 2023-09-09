@@ -13,7 +13,11 @@
             "name": "Thrivingly Fluent",
             "bundleid": "org.thepoopyguy.flatandfluent",
             "banner": "icons/simpsus.png"
-        }
+        },
+        {
+            "name": "Clocking Out",
+          "bundleid": "org.thepoopyguy.compileclock16",
+          "banner": "icons/compiled.png"
     ],
   "packages": [
     {

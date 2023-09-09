@@ -18,6 +18,7 @@
             "name": "Clocking Out",
           "bundleid": "org.thepoopyguy.compileclock16",
           "banner": "icons/compiled.png"
+        }
     ],
   "packages": [
     {

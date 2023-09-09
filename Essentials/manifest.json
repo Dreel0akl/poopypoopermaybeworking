@@ -7,7 +7,8 @@
         {
             "name": "Comic Sans W",
             "bundleid": "org.thepoopyguy.commerce",
-            "banner": "Icons/comicbanner.png"
+            "banner": "Icons/comicbanner.png",
+            "fontcolor":"black"
         },
         {
             "name": "Thrivingly Fluent",

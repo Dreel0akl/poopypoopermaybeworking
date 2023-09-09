@@ -13,6 +13,7 @@
             "name": "Thrivingly Fluent",
             "bundleid": "org.thepoopyguy.flatandfluent",
             "banner": "icons/simpsus.png"
+        }
     ],
   "packages": [
     {

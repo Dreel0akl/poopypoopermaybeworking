@@ -7,17 +7,17 @@
         {
             "name": "Comic Sans W",
             "bundleid": "org.thepoopyguy.commerce",
-            "banner": "icons/comicbanner.png"
+            "banner": "Icons/comicbanner.png"
         },
         {
             "name": "Thrivingly Fluent",
             "bundleid": "org.thepoopyguy.flatandfluent",
-            "banner": "icons/simpsus.png"
+            "banner": "Icons/simpsus.png"
         },
         {
             "name": "Clocking Out",
           "bundleid": "org.thepoopyguy.compileclock16",
-          "banner": "icons/compiled.png"
+          "banner": "Icons/compiled.png"
         }
     ],
   "packages": [

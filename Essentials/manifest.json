@@ -1,3 +1,11 @@
+"featured": [
+        {
+            "name": "Comic Sans",
+            "bundleid": "org.thepoopyguy.commerce",
+            "banner": "icons/comicbanner.png"
+        }
+    ],
+
 {
   "spec": "1.0",
   "name": "Poop repo",

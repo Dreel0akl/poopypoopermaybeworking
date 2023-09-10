@@ -3,7 +3,7 @@
   "description": "Basic fonts",
   "icon": "RepoIcon.png",
   "spec":"1.0",
-  "repotype":"purekfdextended"
+  "repotype":"purekfdextended",
   "featured": [
     {
       "name": "Comic Sans W",

@@ -2,7 +2,8 @@
   "name": "Poop repo",
   "description": "Basic fonts",
   "icon": "RepoIcon.png",
-  "spec":"1.0"
+  "spec":"1.0",
+  "repotype":"purekfdextended"
   "featured": [
     {
       "name": "Comic Sans W",

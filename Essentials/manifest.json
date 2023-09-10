@@ -34,7 +34,7 @@
       "icon": "Icons/comicsans.png",
       "path": "Tweaks/org.thepoopyguy.commerce.picasso",
       "banner":"Icons/commerceban.png",
-      "screenshots":["ss/cs1", "ss/cs2"]
+      "screenshots":["ss/cs1.PNG", "ss/cs2.PNG"]
     },
     {
       "name": "compile clock 16",

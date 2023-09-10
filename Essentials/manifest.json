@@ -31,7 +31,7 @@
       "description": "kys.",
       "version": "1.1",
       "icon": "Icons/comicsans.png",
-      "path": "Tweaks/org.thepoopyguy.commerce.picasso"
+      "path": "Tweaks/org.thepoopyguy.commerce.picasso",
       "banner":"Icons/commerceban.png"
     },
     {
@@ -41,7 +41,7 @@
       "description": "cool clock font I found (iOS 16 only).",
       "version": "1.1",
       "icon": "Icons/compileclock16.png",
-      "path": "Tweaks/org.thepoopyguy.compileclock16.picasso"
+      "path": "Tweaks/org.thepoopyguy.compileclock16.picasso",
       "banner":"Icons/compiledban.png"
     },
     {
@@ -51,7 +51,7 @@
       "description": "name",
       "version": "1.1",
       "icon": "Icons/fluentflat.PNG",
-      "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso"
+      "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso",
       "banner":"Icons/simpsus.png"
     }
   ]

@@ -2,25 +2,25 @@
   "name": "Poop repo",
   "description": "Basic fonts",
   "icon": "RepoIcon.png",
-"featured": [
-        {
-            "name": "Comic Sans W",
-            "bundleid": "org.thepoopyguy.commerce",
-            "banner": "Icons/comicbanner.png",
-            "fontcolor":"black"
-          "showname":false
-        },
-        {
-            "name": "Thrivingly Fluent",
-            "bundleid": "org.thepoopyguy.flatandfluent",
-            "banner": "Icons/simpsus.png"
-        },
-        {
-            "name": "Clocking Out",
-          "bundleid": "org.thepoopyguy.compileclock16",
-          "banner": "Icons/compiled.png"
-        }
-    ],
+  "featured": [
+    {
+      "name": "Comic Sans W",
+      "bundleid": "org.thepoopyguy.commerce",
+      "banner": "Icons/comicbanner.png",
+      "fontcolor": "black",
+      "showname": false
+    },
+    {
+      "name": "Thrivingly Fluent",
+      "bundleid": "org.thepoopyguy.flatandfluent",
+      "banner": "Icons/simpsus.png"
+    },
+    {
+      "name": "Clocking Out",
+      "bundleid": "org.thepoopyguy.compileclock16",
+      "banner": "Icons/compiled.png"
+    }
+  ],
   "packages": [
     {
       "name": "comic sans",
@@ -35,7 +35,7 @@
       "name": "compile clock 16",
       "bundleid": "org.thepoopyguy.compileclock16",
       "author": "PoopER",
-      "description": "cool clock font i found (ios 16 only).",
+      "description": "cool clock font I found (iOS 16 only).",
       "version": "1.1",
       "icon": "Icons/compileclock16.png",
       "path": "Tweaks/org.thepoopyguy.compileclock16.picasso"

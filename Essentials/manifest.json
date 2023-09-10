@@ -45,7 +45,8 @@
       "version": "1.1",
       "icon": "Icons/compileclock16.png",
       "path": "Tweaks/org.thepoopyguy.compileclock16.picasso",
-      "banner":"Icons/compiledban.png"
+      "banner":"Icons/compiledban.png",
+      "screenshots":["ss/cc1.jpg"]
     },
     {
       "name": "Fluent UI Emoji Flat",
@@ -56,7 +57,8 @@
       "version": "1.1",
       "icon": "Icons/fluentflat.PNG",
       "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso",
-      "banner":"Icons/simpsus.png"
+      "banner":"Icons/simpsus.png",
+      "screenshots":["ss/fu1.PNG", "ss/fu2.PNG"]
     }
   ]
 }

@@ -47,7 +47,7 @@
       "path": "Tweaks/org.thepoopyguy.compileclock16.picasso",
       "banner":"Icons/compiledban.png",
       "screenshots":["ss/cc1.jpg"],
-      "accent":"#50565e"
+      "accent":"#0e181f"
     },
     {
       "name": "Fluent UI Emoji Flat",

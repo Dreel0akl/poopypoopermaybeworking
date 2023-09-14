@@ -59,7 +59,7 @@
       "icon": "Icons/fluentflat.PNG",
       "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso",
       "banner":"Icons/simpsus.png",
-      "screenshots":["ss/fu1.PNG", "ss/fu2.PNG"]
+      "screenshots":["ss/fu1.PNG", "ss/fu2.PNG"],
       "accent":"#7FBA00"
     }
   ]

@@ -34,7 +34,7 @@
       "path": "Tweaks/org.thepoopyguy.commerce.picasso",
       "banner":"Icons/commerceban.png",
       "screenshots":["ss/cs1.PNG", "ss/cs2.PNG", "ss/cs3.PNG", "ss/cs4.PNG", "ss/cs5.PNG"],
-      "accent":"#131d2b"
+      "accent":"#2e3c4f"
     },
     {
       "name": "compile clock 16",
@@ -47,7 +47,7 @@
       "path": "Tweaks/org.thepoopyguy.compileclock16.picasso",
       "banner":"Icons/compiledban.png",
       "screenshots":["ss/cc1.jpg"],
-      "accent":"#0e181f"
+      "accent":"#5a5f63"
     },
     {
       "name": "Fluent UI Emoji Flat",
@@ -60,7 +60,7 @@
       "path": "Tweaks/org.thepoopyguy.flatandfluent.picasso",
       "banner":"Icons/simpsus.png",
       "screenshots":["ss/fu1.PNG", "ss/fu2.PNG"],
-      "accent":"#7FBA00"
+      "accent":"#fdb900"
     }
   ]
 }

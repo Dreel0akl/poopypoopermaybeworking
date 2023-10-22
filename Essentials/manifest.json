@@ -25,7 +25,7 @@
     {
       "name": "become one with the pixel.",
       "bundleid": "org.thepoopyguy.decaljoy",
-      "banner": "Icons/joyofpix.png"
+      "banner": "Icons/joyofpix.png",
       "showname": false
     },
   ],

@@ -21,7 +21,12 @@
       "name": "Clocking Out",
       "bundleid": "org.thepoopyguy.compileclock16",
       "banner": "Icons/compiled.png"
-    }
+    },
+    {
+      "name": "become one with the pixel.",
+      "bundleid": "org.thepoopyguy.decaljoy",
+      "banner": "Icons/joyofpix.png"
+      "showname": false
   ],
   "packages": [
     {

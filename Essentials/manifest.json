@@ -62,6 +62,18 @@
       "banner":"Icons/simpsus.png",
       "screenshots":["ss/fu1.PNG", "ss/fu2.PNG"],
       "accent":"#fdb900"
-    }
+    },
+    {
+      "name": "Joypixels Decal emojis",
+      "bundleid": "org.thepoopyguy.decaljoy",
+      "author": "PoopER",
+      "description": "Joypixels but decal",
+      "long_description":"joy pixels but with outline",
+      "version": "1.0",
+      "icon": "Icons/confound.png",
+      "path": "Tweaks/org.thepoopyguy.decaljoy.purekfd",
+      "banner":"Icons/joyofpix.png",
+      "screenshots":["ss/jd1.PNG", "ss/jd2.PNG"],
+      "accent":"#97f0ed"
   ]
 }
